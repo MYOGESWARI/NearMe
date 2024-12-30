@@ -249,17 +249,15 @@ theatre.html
 
 ## OUTPUT
 
-![alt text](<yazh/mapapp/static/Screenshot 2024-12-13 155524.png>)
+ ![alt text](<Screenshot 2024-12-30 173428.png>)
 
-![alt text](<yazh/mapapp/static/Screenshot 2024-12-13 163729.png>)
+ ![alt text](<Screenshot 2024-12-30 173329.png>)
 
-![alt text](<yazh/mapapp/static/Screenshot 2024-12-13 163806.png>)
+ ![alt text](<Screenshot 2024-12-30 173344.png>)
 
-![alt text](<yazh/mapapp/static/Screenshot 2024-12-13 163835.png>)
-
-![alt text](<yazh/mapapp/static/Screenshot 2024-12-13 163859.png>)
-
-![alt text](<yazh/mapapp/static/Screenshot 2024-12-13 163932.png>)
+ ![alt text](<Screenshot 2024-12-30 173355.png>)
+  
+ ![alt text](<Screenshot 2024-12-30 173408.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
