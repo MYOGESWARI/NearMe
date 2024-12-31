@@ -41,7 +41,7 @@ map.html
       <font color="blue"><b>M YOGESWARI (24011145) </b></font>
     </h3>
     <center>
-        <img src="Screenshot 2024-12-13 155524.png" usemap="#image-map">
+        <img src="Screenshot 2024-12-31 142852.png" usemap="#image-map">
     <map name="image-map">
     <area target="_blank" alt="hotel" title="hotel" href="Hotel Hills " coords="1234,395,1011,335" shape="rect">
     <area target="_blank" alt="theatre" title="theatre" href="grand cinemas" coords="905,765,1161,845" shape="rect">
@@ -249,7 +249,7 @@ theatre.html
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-12-13 155524.png>)
+![alt text](<Screenshot 2024-12-31 142852.png>)
 
  ![alt text](<Screenshot 2024-12-30 173428.png>)
 
