@@ -249,7 +249,7 @@ theatre.html
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-12-31 142852.png>)
+ ![alt text](<Screenshot 2024-12-31 142852.png>)
 
  ![alt text](<Screenshot 2024-12-30 173428.png>)
 
