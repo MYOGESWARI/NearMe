@@ -249,6 +249,8 @@ theatre.html
 
 ## OUTPUT
 
+
+
  ![alt text](<Screenshot 2024-12-30 173428.png>)
 
  ![alt text](<Screenshot 2024-12-30 173329.png>)
@@ -259,7 +261,6 @@ theatre.html
   
  ![alt text](<Screenshot 2024-12-30 173408.png>)
 
- ![alt text](<Screenshot 2024-12-13 155524.png>)
-
+ 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
